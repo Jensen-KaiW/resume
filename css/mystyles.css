@@ -1,0 +1,14 @@
+.grey{
+    color: grey !important;
+}
+@font-face {
+    font-family: 'MicrosoftOfficeIcons';
+    src: url('path/to/MicrosoftOfficeIcons.woff') format('woff'),
+         url('path/to/MicrosoftOfficeIcons.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .ms-Icon {
+    font-family: 'MicrosoftOfficeIcons';
+  }
